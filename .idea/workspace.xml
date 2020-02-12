@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a66f79-18ab-48c0-9238-e941b6719fa4" name="Default Changelist" comment="add .">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="26a66f79-18ab-48c0-9238-e941b6719fa4" name="Default Changelist" comment="add ." />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,15 +42,6 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../index (2).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="36" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -209,12 +198,12 @@
       <workItem from="1580899039419" duration="4696000" />
       <workItem from="1580976396307" duration="3467000" />
       <workItem from="1581149560057" duration="1944000" />
-      <workItem from="1581254822319" duration="36020000" />
+      <workItem from="1581254822319" duration="36272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88289000" />
+    <option name="totallyTimeSpent" value="88541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="419" y="0" width="1508" height="1047" extended-state="0" />
